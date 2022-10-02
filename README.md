@@ -12,3 +12,4 @@
 **Text Summarization:** To extract its partial content reflection it’s whole content automatically.
 
 ![Image](https://static.javatpoint.com/tutorial/data-mining/images/text-data-mining.png)
+
